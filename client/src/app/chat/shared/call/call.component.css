@@ -1,0 +1,25 @@
+.chat-container {
+    position: fixed;   
+  width: 100vw;
+    height:100vw;
+}
+
+.mat-card
+{
+    
+    justify-content: center;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+}
+
+.mat-card-header
+{
+        align-self: center;
+
+}
+
+.call_buttons
+{
+    align-self: center;
+}
